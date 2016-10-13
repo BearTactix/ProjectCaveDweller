@@ -20,5 +20,6 @@ FPS = 60
 REQUIREDFOOD = 50
 STARTINGFOOD = 0
 PLAYERMOVERATE = 6
+TEST = 2
 
 #Sets up the main functions for the game
